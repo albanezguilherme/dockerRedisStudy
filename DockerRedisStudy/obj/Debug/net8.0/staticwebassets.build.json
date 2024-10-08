@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "l2jW19lCP5TF9CfnCzIyLncnCv1Iqb3ySiSrDXswwPk=",
+  "Source": "DockerRedisStudy",
+  "BasePath": "_content/DockerRedisStudy",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
